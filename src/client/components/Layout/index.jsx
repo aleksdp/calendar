@@ -1,5 +1,5 @@
 import React from 'react'
-import {Link} from 'react-router'
+// import {Link} from 'react-router'
 import { head } from 'react-isomorphic-render'
 import LoadingBar from 'react-redux-loading-bar'
 export default class Main extends React.Component{
